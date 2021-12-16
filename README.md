@@ -1,5 +1,8 @@
-# Launchpad
-> 키패드 입력으로 악기를 연주하는 사이트
+# Painting board
+> 그림판 사이트
+
+캔버스를 이용해 그리기, 지우기, 색채우기 기능 구현
+input range 속성을 이용한 브러쉬 사이즈 변경 가능
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3" /> <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery" />
 
@@ -8,7 +11,7 @@
 
 ## Usage example
 
-![캡처](https://user-images.githubusercontent.com/93975793/146338440-1ff86d94-c68d-4d1e-a8c0-7bf3f35d192b.PNG)
+https://user-images.githubusercontent.com/93975793/146340031-5f041304-02dd-4b14-aead-b3628eb1e1ac.mp4
 
 
 ## Release History
