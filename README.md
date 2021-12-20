@@ -7,6 +7,8 @@
 
 ## Usage example
 
+https://heimish902.github.io/painting-board/index.html
+
 캔버스를 이용해 그리기, 지우기, 색채우기 기능 구현
 
 
